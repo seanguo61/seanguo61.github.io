@@ -40,32 +40,30 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
   involving 3 million smartphones in 367 cities for 20 months.
 
 
-
-| <span style="color:DarkRed;font-weight:bold">Recent News</span> |                                                                                                                                            |
-|-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Jan. 2024                                                       | One paper accepted by IEEE Transactions on Sensor Networks.                                                                                |
-| Dec. 2023                                                       | One paper accepted by IEEE Transactions on Mobile Computing.                                                                               |
-| Oct. 2023                                                       | Distinguish Paper Award (**WePos**) by the IoT Committee of Chinese Institute of Electronics.                                              |
-| Jul. 2023                                                       | One paper accepted by ICA3PP <span style="background-color: grey; color: white;">(Best Student Paper Award)</span>.                        |
-| May. 2023                                                       | Two papers accepted by ACM SIGKDD'23.                                                                                                      |
-| Mar. 2023                                                       | Co-authored paper accepted by IEEE Transactions on Big Data.                                                                               |
-| Aug. 2022                                                       | Co-authored paper accepted by ACM SIGSPATIAL 2022.                                                                                         |
-| Aug. 2022                                                       | Co-authored paper accepted by ACM CIKM 2022.                                                                                               |
-| May. 2022                                                       | 1 paper accepted by ACM SIGKDD'22.                                                                                                         |
-| Apr. 2022                                                       | 1st-author paper **WePos** accepted by ACM IMWUT (UbiComp'22).                                                                             |
-| Nov. 2021                                                       | 1st-author paper won <span style="background-color: grey; color: white;">(Outstanding Paper Award)</span> at IEEE RTSS'21.                 |
-| Oct. 2021                                                       | 2nd-author paper **CSMC** accepted by ACM IMWUT (UbiComp'21).                                                                              |
-| Oct. 2021                                                       | Another paper **O2-SiteRec** about on-demand gig delivery is accepted by ICDE'22.                                                          |
-| Aug. 2021                                                       | 1st-author paper **TCAC** accepted by IEEE RTSS'21.                                                                                        |
-| Jul. 2021                                                       | [Data-set](https://tianchi.aliyun.com/dataset/dataDetail?dataId=106807) released of on-demand delivery order distribution in Shenzhen.     |
-| Jul. 2021                                                       | 2nd-author paper **RL-Dispatch** accepted by ACM IMWUT (UbiComp'21).                                                                       |
-| Jul. 2021                                                       | Co-authored paper accepted by ICPADS.                                                                                                      |
-| Jul. 2021                                                       | Co-authored paper accepted by MSN.                                                                                                         |
-| Jul. 2021                                                       | Co-authored paper accepted by WASA.                                                                                                        |
-| Mar. 2021                                                       | Started internship at JD Logistics AI and Data Science hosted by Prof. [Tian He](https://www-users.cs.umn.edu/~tianhe/).                   |
-| Sep. 2020                                                       | [Data-set](https://tianchi.aliyun.com/dataset/dataDetail?dataId=76359) released of Bluetooth beacons, couriers' reports, and trajectories. |
-| Aug. 2020                                                       | Co-authored paper accepted by IEEE UbiComp ISWC.                                                                                           |
-| Jul. 2020                                                       | Started internship at Lab of Alibaba Local Services Company (Eleme).                                                                       |
-
+### <span style="color:royalBlue;font-weight:bold">News</span>
+- **May. 2024:** One paper accepted by ACM SIGKDD'24.
+- **Jan. 2024:** One paper accepted by IEEE Transactions on Sensor Networks.
+- **Dec. 2023:** One paper accepted by IEEE Transactions on Mobile Computing.
+- **Oct. 2023:** Distinguish Paper Award (**WePos**) by the IoT Committee of Chinese Institute of Electronics.
+- **Jul. 2023:** One paper accepted by ICA3PP (Best Student Paper Award).
+- **May. 2023:** Two papers accepted by ACM SIGKDD'23.
+- **Mar. 2023:** Co-authored paper accepted by IEEE Transactions on Big Data.
+- **Aug. 2022:** Co-authored paper accepted by ACM SIGSPATIAL 2022.
+- **Aug. 2022:** Co-authored paper accepted by ACM CIKM 2022.
+- **May. 2022:** One paper accepted by ACM SIGKDD'22.
+- **Apr. 2022:** First-author paper (**WePos**) accepted by ACM IMWUT (UbiComp'22).
+- **Nov. 2021:** First-author paper won Outstanding Paper Award at IEEE RTSS'21.
+- **Oct. 2021:** Second-author paper (**CSMC**) accepted by ACM IMWUT (UbiComp'21).
+- **Oct. 2021:** Another paper (**O2-SiteRec**) about on-demand gig delivery is accepted by ICDE'22.
+- **Aug. 2021:** First-author paper (**TCAC**) accepted by IEEE RTSS'21.
+- **Jul. 2021:** [Data-set](https://tianchi.aliyun.com/dataset/dataDetail?dataId=106807) released of on-demand delivery order distribution in Shenzhen.
+- **Jul. 2021:** Second-author paper (**RL-Dispatch**) accepted by ACM IMWUT (UbiComp'21).
+- **Jul. 2021:** Co-authored paper accepted by ICPADS.
+- **Jul. 2021:** Co-authored paper accepted by MSN.
+- **Jul. 2021:** Co-authored paper accepted by WASA.
+- **Mar. 2021:** Started internship at JD Logistics AI and Data Science hosted by Prof. [Tian He](https://www-users.cs.umn.edu/~tianhe/).
+- **Sep. 2020:** [Data-set](https://tianchi.aliyun.com/dataset/dataDetail?dataId=76359) released of Bluetooth beacons, couriers' reports, and trajectories.
+- **Aug. 2020:** Co-authored paper accepted by IEEE UbiComp ISWC.
+- **Jul. 2020:** Started internship at Lab of Alibaba Local Services Company (Eleme).
 
  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=253&t=m&d=EQYPlw5lDg15RcgG0z_hUteyGtKKwFr6VRGHCriccuo'></script>
