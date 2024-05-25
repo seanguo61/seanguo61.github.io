@@ -9,7 +9,6 @@ author_profile: true
 ### Selected Conference Publication
 > * 4\*KDD, 3\*Ubicomp, 1\*RTSS, 1\*ICDE, 1\*TMC, 1\*CIKM, 1\*SIGSPATIAL,
 
-
 - <span style="color:royalblue;font-weight:bold">[KDD'24]</span> *Multi-task Conditional Attention Network for Conversion Prediction in Logistics Advertising* <br>**Baoshen Guo**+, Xining Song+, Shuai Wang, Wei Gong, Tian He, Xue Liu<br> 
 
 
