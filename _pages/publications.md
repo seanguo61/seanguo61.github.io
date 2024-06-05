@@ -73,4 +73,4 @@ Shuai Wang+, **Baoshen Guo***+, Yi Ding, Guang Wang, Suining He, Desheng Zhang, 
 - <span style="color:Forestgreen;font-weight:bold">[ACM-TOSN]</span> *Multi-sensor Data-driven Route Prediction in Instant Delivery with a 3-Conversion Network* <br>
 Zhiyuan Zhou, Xiaolei Zhou, **Baoshen Guo**, Shuai Wang, Tian He<br>
 
-> * Coressponding author; + Co-first authors,
+> * \* Coressponding author; + Co-first authors,
