@@ -16,6 +16,8 @@ author_profile: true
 * [Latex symbols 2](https://artofproblemsolving.com/wiki/index.php/LaTeX:Symbols) 
 * [Latex best practices](https://www.acm.org/publications/taps/latex-best-practices)
 * [formula-generator](http://formula-generator.com/)
+* [Figure-color-1](https://htmlcolorcodes.com/color-chart/flat-design-color-chart/)
+* [Figure-color-2](https://cmap-docs.readthedocs.io/en/latest/catalog/)
 
 ### Enlightening blogs
 * [AI for social good.](https://yoshuabengio.org/2021/05/10/when-maximizing-individual-interests-can-make-us-all-lose-usually-some-losing-more-than-others/)
