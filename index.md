@@ -40,6 +40,7 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 
 
 ### <span style="color:royalBlue;font-weight:bold">News</span>
+- **Jul. 2024:** Two co-authored paper accepted by ACM CIKM 2024.
 - **May. 2024:** Co-authored paper accepted by IEEE TKDE.
 - **May. 2024:** One paper accepted by ACM SIGKDD'24.
 - **Jan. 2024:** One paper accepted by IEEE Transactions on Sensor Networks.
