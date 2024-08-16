@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://seanguo61.github.io/sitemap.xml
+Sitemap: https://baoshenguo.com/sitemap.xml
