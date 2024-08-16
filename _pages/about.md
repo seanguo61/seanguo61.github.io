@@ -23,3 +23,5 @@ My research interests are broadly in the areas of **Cyber-Physical Systems**, **
 My publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=og2Z6YMAAAAJ&hl=zh-CN). 
 
 My long-term research goal is to build **R**obust, **I**nterpretable, **S**afe, and **E**fficient decision-making technologies and AI model for real-world systems
+
+> I will join SMART M3S program as a Postdoc in Fall 2025! I am open to research discussion and collaboration, please drop me an email if you are interested!
