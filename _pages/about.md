@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: IMG_2968.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
 
 
 news: true # includes a list of news items
@@ -19,3 +19,5 @@ Previously, I was a Graduate Research Trainee at the Cyber Physical Systems Lab,
 
 My research interests are broadly in the areas of **Cyber-Physical Systems**, **Human-Centered Computing**, and **Learning-based Decision-Making Applications** in **Smart Logistics**.<br>You can contact me at guobaoshen AT seu DOT edu DOT cn.
 My publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=og2Z6YMAAAAJ&hl=zh-CN). 
+
+My long-term research goal is to build **R**obust, **I**nterpretable, **S**afe, and **E**fficient decision-making technologies and AI model for real-world systems
