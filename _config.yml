@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: BAOSHEN GUO # the website title (if blank, full name will be used instead)
-first_name: Baoshen Guo
+first_name: Baoshen
 middle_name:
-last_name:
+last_name: Guo
 email: guobaoshen@seu.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Baoshen Guo.
