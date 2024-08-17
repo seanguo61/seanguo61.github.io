@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Southeast University</a>
+subtitle: <a href='#'>Southeast University</a>. Nanjing.
 
 profile:
   align: right
@@ -12,6 +12,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: true 
 social: true # includes social icons at the bottom of the page
 ---
 
